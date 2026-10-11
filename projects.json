@@ -1,0 +1,183 @@
+[
+  {
+    "id": "01",
+    "slug": "residential-lifestyle",
+    "title": "RESIDENTIAL LIFESTYLE CONCEPT",
+    "ru": "Жилой комплекс — lifestyle-концепция",
+    "type": "AI / REAL ESTATE",
+    "cover": "source_01_cover.webp",
+    "desc_ru": "Рекламная lifestyle-концепция для жилого комплекса: создание постоянных персонажей, интеграция в интерьерные и общественные пространства, последовательная визуальная история.",
+    "desc_en": "A residential lifestyle concept: consistent AI characters, their integration into architectural spaces, and a visual story for a property campaign.",
+    "gallery": [
+      "01_scene_0.webp",
+      "01_scene_1.webp",
+      "01_scene_2.webp",
+      "01_scene_3.webp",
+      "01_scene_4.webp"
+    ],
+    "process": [
+      "01_process_0.webp",
+      "01_process_1.webp",
+      "01_process_2.webp",
+      "01_process_3.webp"
+    ],
+    "intercom": [
+      "01_intercom_before.webp",
+      "01_intercom_after.webp"
+    ],
+    "poster": "source_01_video_poster.webp",
+    "video": "residential-lifestyle-film.mov"
+  },
+  {
+    "id": "02",
+    "slug": "interior-visualization",
+    "title": "INTERIOR AI EDITING & RENDERING",
+    "ru": "Интерьерная AI-визуализация",
+    "type": "AI / INTERIORS",
+    "cover": "project02_livingroom_photoreal.jpg",
+    "desc_ru": "Из чернового интерьерного рендера — в реалистичную визуализацию. Дополнительно: смена материалов, мебели, освещения и удаление объектов.",
+    "desc_en": "From rough interior renders to photorealistic imagery, alongside material swaps, furniture editing, lighting changes and object removal.",
+    "comparisons": [
+      [
+        "source_02_render_01_before.webp",
+        "source_02_render_01_after.webp"
+      ],
+      [
+        "source_02_render_02_before.webp",
+        "source_02_render_02_after.webp"
+      ],
+      [
+        "source_02_render_03_before.webp",
+        "source_02_render_03_after.webp"
+      ],
+      [
+        "source_02_render_04_before.webp",
+        "source_02_render_04_after.webp"
+      ]
+    ],
+    "gallery": [
+      "02_edit_0.jpg",
+      "02_edit_1.jpg",
+      "02_edit_2.jpg",
+      "02_edit_3.jpg",
+      "02_edit_4.jpg"
+    ],
+    "editingComparisons": [
+      {
+        "before": "source_02_edit_01_before.webp",
+        "after": "source_02_edit_01_after.webp",
+        "ru": "Замена обивки стула",
+        "en": "Chair upholstery change"
+      },
+      {
+        "before": "source_02_edit_02_before.webp",
+        "after": "source_02_edit_02_after.webp",
+        "ru": "Замена мебели на фотографии",
+        "en": "Furniture replacement"
+      },
+      {
+        "before": "source_02_edit_03_before.webp",
+        "after": "source_02_edit_03_after.webp",
+        "ru": "День → ночь",
+        "en": "Day to night"
+      },
+      {
+        "before": "source_02_edit_04_before.webp",
+        "after": "source_02_edit_04_after.webp",
+        "ru": "Удаление объектов",
+        "en": "Object removal"
+      },
+      {
+        "before": "source_02_edit_05_before.webp",
+        "after": "source_02_edit_05_after.webp",
+        "ru": "Расстановка мебели",
+        "en": "Furniture staging"
+      },
+      {
+        "before": "source_02_edit_06_before.webp",
+        "after": "source_02_edit_06_after.webp",
+        "ru": "Замена материала дивана",
+        "en": "Sofa material change"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "slug": "knitwear-campaign",
+    "title": "KNITWEAR LIFESTYLE CAMPAIGN",
+    "ru": "Кампания трикотажной одежды",
+    "type": "AI / FASHION",
+    "cover": "source_03_final_01.webp",
+    "desc_ru": "Визуальная кампания трикотажа с акцентом на натуральную посадку, фактуру ткани и органичное взаимодействие модели с окружением.",
+    "desc_en": "A knitwear campaign focused on garment texture, natural fit and authentic model interaction with the environment.",
+    "gallery": [
+      "source_03_final_01.webp",
+      "source_03_final_02.webp",
+      "source_03_final_03.webp",
+      "source_03_final_04.webp",
+      "source_03_final_05.webp",
+      "source_03_final_06.webp",
+      "source_03_final_07.webp",
+      "source_03_final_08.webp"
+    ]
+  },
+  {
+    "id": "04",
+    "slug": "fashion-editorial",
+    "title": "FASHION EDITORIAL CONCEPT",
+    "ru": "Fashion editorial — позы и ракурсы",
+    "type": "AI / EDITORIAL",
+    "cover": "source_04_balloon.webp",
+    "desc_ru": "Единая fashion-серия с разнообразными позами и планами: от ростовых фотографий до выразительного бьюти-крупного плана.",
+    "desc_en": "A consistent fashion editorial with varied poses and camera distances, from full-body photography to expressive beauty close-ups.",
+    "gallery": [
+      "source_04_final_01.webp",
+      "source_04_final_02.webp",
+      "source_04_final_03.webp",
+      "source_04_final_04.webp",
+      "source_04_final_05.webp",
+      "source_04_final_06.webp",
+      "source_04_final_07.webp",
+      "source_04_final_08.webp"
+    ],
+    "coverMode": "contain",
+    "coverPosition": "center top"
+  },
+  {
+    "id": "05",
+    "slug": "luv-scent",
+    "title": "LUV SCENT PRODUCT CAMPAIGN",
+    "ru": "LUV SCENT — предметная кампания",
+    "type": "AI / BEAUTY PRODUCT",
+    "cover": "source_05_cover.webp",
+    "desc_ru": "Предметная рекламная серия с демонстрацией упаковки, фактуры скраба, процесса использования и атмосферы продукта.",
+    "desc_en": "Product campaign presenting the bottle, scrub texture, application scenes and the product mood.",
+    "gallery": [
+      "source_05_final_01.webp",
+      "source_05_final_02.webp",
+      "source_05_final_03.webp",
+      "source_05_final_04.webp",
+      "source_05_final_05.webp",
+      "source_05_final_06.webp",
+      "source_05_final_07.webp",
+      "source_05_final_08.webp"
+    ],
+    "coverMode": "contain",
+    "coverPosition": "center center"
+  },
+  {
+    "id": "06",
+    "slug": "poeziya-zvuka",
+    "title": "POEZIYA ZVUKA PRINT DESIGN",
+    "ru": "Поэзия звука — полиграфия",
+    "type": "DESIGN / PRINT",
+    "cover": "project06_poeziya_cover.jpg",
+    "desc_ru": "Дизайн печатных абонементов и книжки резидента для музыкальной мастерской и культурного клуба «Поэзия звука».",
+    "desc_en": "Membership and resident-booklet print design for Poeziya Zvuka music studio and cultural club.",
+    "gallery": [
+      "06_design_1.png",
+      "06_design_2.png",
+      "06_mockup.webp"
+    ]
+  }
+]
